@@ -13,7 +13,7 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 | Scrum Team | Hemilly | [LinkedIn](https://www.linkedin.com/in/hemilly-freitas-31a509269?utm_source=share_via&utm_content=profile&utm_medium=member_android) |[GitHub](https://github.com/hemillyfreitas) |
 | Scrum Team | João Pedro | [LinkedIn](https://www.linkedin.com/in/joao-pedro-a2b6122b7) | [GitHub](https://github.com/settings/profile) |
 | Scrum Team | Juliano | [LinkedIn](https://www.linkedin.com/in/juliano-santana-776992249) | [GitHub](https://github.com/santanajuliano997-beep) |
-| Scrum Team | Thalya | | |
+| Scrum Team | Thalya | [LinkedIn](https://www.linkedin.com/in/thalya-awany-berti-773923266) |[GitHub](https://github.com/ThalyaAwany) |
 # Tecnologias Utilizadas
 # Product Backlog
 # Registro das Sprints
