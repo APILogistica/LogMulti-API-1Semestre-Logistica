@@ -33,7 +33,7 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 | 2 | MÉDIA | Como equipe do projeto, quero filtrar e padronizar os dados para o município de São José dos Campos (código 354990), para que a análise reflita exclusivamente o ecossistema local. | 1 |
 | 3 | MÉDIA | Como equipe do projeto, quero identificar e tratar as inconsistências dos dados da RAIS (vínculos zerados, mistura de tipos de estabelecimento, ausência de ano e de identificação), para que o dashboard não apresente conclusões distorcidas. | 1 |
 | 4 | BAIXA | Como equipe do projeto, quero produzir a documentação formal do projeto (Visão e Escopo, DoR, DoD, Log de Decisões), para que o trabalho siga a metodologia Scrum/API exigida pela disciplina. | 1 |
-| 5 | BAIXA | Como equipe do projeto, quero estruturar o repositório no GitHub (`docs/`, `notebooks/`, `powerbi/`), para que o código, os dados e a documentação fiquem organizados e versionados. | 1 |
+| 5 | BAIXA | Como equipe do projeto, quero estruturar o repositório no GitHub, para que o código, os dados e a documentação fiquem organizados e versionados. | 1 |
 # Registro das Sprints
 | Sprint | Previsão | Status |
 |---|---|---|
