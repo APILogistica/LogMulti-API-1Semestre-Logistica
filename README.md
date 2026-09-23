@@ -10,7 +10,7 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 | Product Owner | Pedro Henrique | | |
 | Scrum Team | Beatriz | [LinkedIn](https://www.linkedin.com/in/beatriz-sepulvida) | |
 | Scrum Team | Caio Moreira | | |
-| Scrum Team | Hemilly | | |
+| Scrum Team | Hemilly | [LinkedIn](https://www.linkedin.com/in/hemilly-freitas-31a509269?utm_source=share_via&utm_content=profile&utm_medium=member_android) |[GitHub](https://github.com/hemillyfreitas) |
 | Scrum Team | João Pedro | [LinkedIn](https://www.linkedin.com/in/joao-pedro-a2b6122b7) | [GitHub](https://github.com/settings/profile) |
 | Scrum Team | Juliano | [LinkedIn](https://www.linkedin.com/in/juliano-santana-776992249) | [GitHub](https://github.com/santanajuliano997-beep) |
 | Scrum Team | Thalya | | |
