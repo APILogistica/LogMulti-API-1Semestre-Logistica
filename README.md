@@ -20,12 +20,12 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 | Scrum Team | Juliano | [LinkedIn](https://www.linkedin.com/in/juliano-santana-776992249) | [GitHub](https://github.com/santanajuliano997-beep) |
 | Scrum Team | Thalya | [LinkedIn](https://www.linkedin.com/in/thalya-awany-berti-773923266) |[GitHub](https://github.com/ThalyaAwany) |
 # Tecnologias Utilizadas
-Microsoft Excel
-Microsoft Word
-Microsoft Teams
-Power BI
-WhatsApp
-Python (Colab)
+- Microsoft Excel
+- Microsoft Word
+- Microsoft Teams
+- Power BI
+- WhatsApp
+- Python 
 # Product Backlog
 # Registro das Sprints
 | Sprint | Previsão | Status |
