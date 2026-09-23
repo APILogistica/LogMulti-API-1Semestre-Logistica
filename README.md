@@ -27,9 +27,6 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 - WhatsApp
 - Python 
 # Product Backlog
-**Cliente:** CADI e Secretaria de Desenvolvimento Econômico de São José dos Campos
-**Fonte dos dados:** RAIS (Ministério do Trabalho e Emprego) e PIB dos Municípios (IBGE)
-
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |---|---|---|---|---|
 | 1 | Alta | Como administrador, quero que os dados sejam atualizados periodicamente, para manter o dashboard confiável (rotina de ETL/atualização a partir dos microdados da RAIS) | 6h | 1 |
