@@ -6,7 +6,7 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 # Equipe
 | Função | Nome | LinkedIn | GitHub |
 |---|---|---|---|
-| Scrum Master | Milena | [LinkedIn](https://www.linkedin.com/in/milenasnogueira) | [GitHub](https://github.com/milenanogueira/Inform-tica-Aplicada) |
+| Scrum Master | Milena | [LinkedIn](https://www.linkedin.com/in/milenasnogueira) | [GitHub](https://github.com/milenanogueira) |
 | Product Owner | Pedro Henrique | | |
 | Scrum Team | Beatriz | [LinkedIn](https://www.linkedin.com/in/beatriz-sepulvida) | |
 | Scrum Team | Caio Moreira | [LinkedIn](https://www.linkedin.com/in/caiomoreiradearaujo) | [GitHub]( https://github.com/CaioMoreiraujo)|
