@@ -18,8 +18,8 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 # Product Backlog
 # Registro das Sprints
 ## Registro das Sprints
-| Sprint | Previsão | Status | Histórico |
-|---|---|---|---|
+| Sprint | Previsão | Status |
+|---|---|---|
 | 01 | 28/09 | Em andamento |
 | 02 | 26/10 | A fazer | 
 | 03 | 23/11 | A fazer | 
