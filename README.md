@@ -27,20 +27,13 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 - WhatsApp
 - Python 
 # Product Backlog
-| Rank | Prioridade | User Story | Sprint |
-|---|---|---|---|
-| 1 | Alta | Como administrador, quero que os dados sejam atualizados periodicamente, para manter o dashboard confiável (rotina de ETL/atualização a partir dos microdados da RAIS) |  1 |
-| 2 | Alta | Como gestor, quero visualizar a distribuição geográfica das empresas no mapa do município, classificadas por setor e, quando aplicável, por tipo de ambiente de inovação (polo, hub, distrito, núcleo), para identificar polos de concentração industrial e de serviços — inspirado no mapeamento do Observatório da Inovação RS | 2 |
-| 3 | Alta | Como gestor, quero visualizar quais empresas mais contratam em SJC, para identificar os principais empregadores da cidade | 2 |
-| 4 | Alta | Como analista, quero ver quais áreas/setores estão em alta, para entender tendências do mercado local | 2 |
-| 5 | Alta | Como usuário, quero uma visão geral (resumo executivo) na tela inicial, para entender rapidamente os principais indicadores (KPIs: total de empresas, total de contratações, % PIB coberto)| 2 |
-| 6 | Alta | Como gestor público, quero visualizar o impacto de cada setor no PIB da cidade, para embasar decisões econômicas (cruzamento RAIS x IBGE)| 3 |
-| 7 | Média | Como analista, quero listar as contratações mais recentes, para acompanhar o dinamismo do mercado de trabalho | 2 |
-| 8 | Média | Como usuário, quero filtrar os dados por período (mês/ano), para analisar variações ao longo do tempo | 3 |
-| 9 | Média | Como usuário, quero filtrar por setor/área de atuação, para focar em segmentos específicos | 3 |
-| 10 | Média | Como gestor, quero comparar a evolução de contratações entre empresas, para identificar crescimento ou retração | 3 |
-| 11 | Baixa | Como usuário, quero exportar os relatórios/dashboards, para compartilhar com terceiros | 4 |
-
+| **Rank** | **Prioridade** | **User Story** | **Sprint** |
+|---:|:---:|---|:---:|
+| 1 | ALTA | Como equipe do projeto, quero um pipeline de ETL no Google Colab (Python) que extraia e prepare os dados brutos da RAIS, para que os dados estejam prontos para análise no Power BI. | 1 |
+| 2 | MÉDIA | Como equipe do projeto, quero filtrar e padronizar os dados para o município de São José dos Campos (código 354990), para que a análise reflita exclusivamente o ecossistema local. | 1 |
+| 3 | MÉDIA | Como equipe do projeto, quero identificar e tratar as inconsistências dos dados da RAIS (vínculos zerados, mistura de tipos de estabelecimento, ausência de ano e de identificação), para que o dashboard não apresente conclusões distorcidas. | 1 |
+| 4 | BAIXA | Como equipe do projeto, quero produzir a documentação formal do projeto (Visão e Escopo, DoR, DoD, Log de Decisões), para que o trabalho siga a metodologia Scrum/API exigida pela disciplina. | 1 |
+| 5 | BAIXA | Como equipe do projeto, quero estruturar o repositório no GitHub (`docs/`, `notebooks/`, `powerbi/`), para que o código, os dados e a documentação fiquem organizados e versionados. | 1 |
 # Registro das Sprints
 | Sprint | Previsão | Status |
 |---|---|---|
