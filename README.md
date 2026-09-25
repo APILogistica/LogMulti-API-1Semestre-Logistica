@@ -12,8 +12,8 @@ O presente projeto faz parte da Aprendizagm por Projetos Integrados (API), desen
 | Função | Nome | LinkedIn | GitHub |
 |---|---|---|---|
 | Scrum Master | Milena | [LinkedIn](https://www.linkedin.com/in/milenasnogueira) | [GitHub](https://github.com/milenanogueira) |
-| Product Owner | Pedro Henrique | | |
-| Scrum Team | Beatriz | [LinkedIn](https://www.linkedin.com/in/beatriz-sepulvida) | |
+| Product Owner | Pedro Henrique | [LinkedIn](https://www.linkedin.com/in/pedro-henrique-oliveira-de-carvalho-75bb07427?utm_source=share_via&utm_content=profile&utm_medium=member_ios) |[GitHub](https://github.com/po032953-dev)|
+| Scrum Team | Beatriz | [LinkedIn](https://www.linkedin.com/in/beatriz-sepulvida) |[GitHub](https://github.com/beatrizsepulvida08) |
 | Scrum Team | Caio Moreira | [LinkedIn](https://www.linkedin.com/in/caiomoreiradearaujo) | [GitHub]( https://github.com/CaioMoreiraujo)|
 | Scrum Team | Hemilly | [LinkedIn](https://www.linkedin.com/in/hemilly-freitas-31a509269?utm_source=share_via&utm_content=profile&utm_medium=member_android) |[GitHub](https://github.com/hemillyfreitas) |
 | Scrum Team | João Pedro | [LinkedIn](https://www.linkedin.com/in/joao-pedro-a2b6122b7) | [GitHub](https://github.com/settings/profile) |
